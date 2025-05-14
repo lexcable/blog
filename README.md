@@ -7,8 +7,5 @@ A personal blog showcasing stories in travel, food, tech, and lifestyle. Built u
 - Organized content by category
 - Easy to expand and customize
 
-## Live Demo
-[Add your Netlify or Vercel link if deployed]
-
 ## License
 [MIT]
